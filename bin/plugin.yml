@@ -1,0 +1,13 @@
+name: fdchub
+version: 1.0
+author: TYSluukie
+main: me.TYSluukie.fdchub.Main
+
+commands:
+  sbreload:
+    usage: /<command>
+    description: Reload teh scoreboard!
+
+permissions:
+  fdchub.reload:
+    description: Allows you to reload the scoreboard!
